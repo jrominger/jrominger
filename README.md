@@ -1,4 +1,5 @@
 # Hi there, I'm Janelle 👋
+* download my resume [here](https://rawcdn.githack.com/jrominger/jrominger/e38615931ae7676eec5e81bff25ff9a14295fb24/Resume.pdf).
 
 I am a student at Baldwin Wallace University. 
 
