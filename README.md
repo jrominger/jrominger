@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Janelle 👋
 
-<!--
-**jrominger/jrominger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at Baldwin Wallace University. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a degree in business administration at Baldwin Wallace University. (Expected Graduation Year: 2028)
+* 🔭 **Current Focus:** My current focus is in human resources. 
+* 💡 **Interests:** I have interests in helping people. 
+* ⚡ **Fun Fact:** I am on the track team at Baldwin Wallace. 
+
+---
+
+### 📌 Featured Projects
+
+| **Interactive Calendar**| **Python** |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using [OpenAI] | `[Python]` `[Flask]` |https://janeller.pythonanywhere.com/
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** www.linkedin.com/in/janelle-rominger-919a6b350
+* **Email:** jrominge24@bw.edu
